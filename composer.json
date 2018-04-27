@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-block-configurablereports",
+    "type": "moodle-block",
+    "description": "Moodle Block Plugin",
+    "extra": {
+        "installer-name": "configurablereports",
+        "moodle": { "package_folder_name" : "configurablereports" }
+    }
+}
